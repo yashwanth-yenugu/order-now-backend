@@ -173,7 +173,7 @@ export class AdminController {
         price: '250 For Two',
       },
       {
-        name: "McDonald's",
+        name: 'McDonald\'s',
         img:
           'https://assets.change.org/photos/9/hx/al/QDHxALaPfWMZJqm-800x450-noPad.jpg?1530231560',
         variety: 'Fast Food',
