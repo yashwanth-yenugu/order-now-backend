@@ -1,0 +1,33 @@
+SET 1: 
+
+1 . Write a program to remove duplicates from  any array 
+2.  Write a program to return highest occurred character in a String.
+3.  What are the TRUNCATE, DELETE and DROP statements?
+
+SET 2: 
+
+1 . Write a program to print  repeated number from any array .
+2.  Write a program to count a number of vowels and consonants in a String?
+3.  What is ACID property in a database?
+
+SET 3: 
+
+1 . Write a program to check if two given String is Anagram of each other. (Two strings are anagrams if they are written using the same exact letters, ignoring space, punctuation, and capitalization. 
+Each letter should have the same count in both strings. For example, the Army and Mary are an anagram of each other.)
+
+2. Write a program to find the missing number in  array of 1 to 100?
+3. Write a SQL query to find the names of customers that begin with ‘A’?
+
+
+SET 4: 
+
+1 . Write a program to get the  first non-repeated character of String
+2.  Write a program to find largest and smallest number in unsorted array?
+3.  What are joins in SQL? (give examples)
+
+SET 5: 
+
+1 . Write a program to count a number of vowels and consonants in a String?
+2.  Write a program to find all pairs on integer array whose sum is equal to given number ?
+
+3.  Write a SQL query to get the third highest salary of an employee from employee_table?
